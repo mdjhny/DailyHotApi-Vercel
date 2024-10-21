@@ -13,14 +13,14 @@
 
 ## 👀 主仓库
 
-本仓库仅用于 `Vercel` 部署，更多信息请请前往 [DailyHotApi](https://github.com/imsyy/DailyHotApi)
+本仓库仅用于 `Vercel` 部署，更多信息请请前往 [DailyHotApi](https://github.com/mdjhny/DailyHotApi)
 
 ## ⚙️ 部署
 
 通过点击下方按钮进行一键部署，或者手动进行部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/imsyys-projects/clone?repository-url=https%3A%2F%2Fgithub.com%2Fimsyy%2FDailyHotApi-Vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/imsyys-projects/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmdjhny%2FDailyHotApi-Vercel)
 
 ## ⚙️ 自动更新
 
-本仓库使用 [GitHub Actions]([/actions](https://github.com/imsyy/DailyHotApi-Vercel/actions)) 自动更新拉取最新版本，每天 0:00 更新，可在工作流中手动开启
+本仓库使用 [GitHub Actions]([/actions](https://github.com/mdjhny/DailyHotApi-Vercel/actions)) 自动更新拉取最新版本，每天 0:00 更新，可在工作流中手动开启
